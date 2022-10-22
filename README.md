@@ -22,7 +22,7 @@ Your users should be able to:
 ##  Links
 
 - Solution URL: [Click for Solution](https://github.com/abouhilalbadr/social-media-dashboard)
-- Live Site URL: [Click for Live Site](https://social-media-dashboard.vercel.app/)
+- Live Site URL: [Click for Live Site](https://dashbord-social-media.vercel.app/)
 
 # Author
 
